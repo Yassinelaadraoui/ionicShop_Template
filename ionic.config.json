@@ -1,0 +1,9 @@
+{
+  "name": "loginform",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular",
+  "app_id": ""
+}
